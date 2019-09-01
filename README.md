@@ -9,3 +9,6 @@ Font Formatter is a simple tool to change fonts and its properties
 2. Go to Utilities/Font Formatter
 3. To change all the fonts of the children, select parent and click on "Replace Selected Children (Hierarchy only)"
 4. To change font of the selected text, select the text and click on "Replace Selected (Hierarchy only)"
+
+## Limitation
+Undo operation will not restore previous font properties.
